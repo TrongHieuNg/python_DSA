@@ -1,2 +1,3 @@
-# Python-DSA
-LC solutions in Python3
+#self-explanatory name
+
+data structures and algorithms in python lol

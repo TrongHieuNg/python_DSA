@@ -5,6 +5,10 @@ Example 1:
 strs = ["eat","tea","tan","ate","nat","bat"]
 return [["bat"],["nat","tan"],["ate","eat","tea"]]
 
+Time complexity: O(n)
+
+Space complexity: O(n)
+
 """
 
 from collections import defaultdict
